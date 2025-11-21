@@ -1,0 +1,12 @@
+{
+  "name": "dustpin-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "dotenv": "^16.4.5",
+    "node-cron": "^4.2.1",
+    "twitter-api-v2": "^1.18.0"
+  }
+}
